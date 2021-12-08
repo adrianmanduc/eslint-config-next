@@ -1,0 +1,28 @@
+{
+  "name": "@adrianmanduc/eslint-config-next",
+  "version": "1.0.0",
+  "description": "An eslint config for Next.js projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "javascript",
+    "react",
+    "next.js"
+  ],
+  "author": "Adrian-Gabriel Manduc",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb": "^19.0.2",
+    "eslint-config-next": "^12.0.7"
+  },
+  "peerDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^19.0.2",
+    "eslint-config-next": "^12.0.7"
+  }
+}
